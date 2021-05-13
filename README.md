@@ -14,6 +14,6 @@ Apaixonado pelo mundo tecnológico e dos games.
 
 Estou aberto a propostas e novos desafios!
 
-  <a href="https://www.linkedin.com/in/iuricode" alt="Linkedin">
+  <a href="www.linkedin.com/in/anderson-ap-ribeiro" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anderson-ap-ribeiro/" /></a>
 
