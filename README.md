@@ -1,16 +1,19 @@
-### Hi there 👋
+![git-capa](https://github.com/Ander-Ribeiro/imagens-capa/blob/main/capa-git.png)
 
-<!--
-**Ander-Ribeiro/Ander-Ribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sejam bem vindos ao meu perfil! 👋
 
-Here are some ideas to get you started:
+Curioso, sempre em busca do conhecimento, através dos estudo! 
+Apaixonado pelo mundo tecnológico e dos games.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ >Conhecimentos Técnicos 
+- 💻 Backend: C# básico | C básico
+- 🖼 FrontEnd: HTML básico | CSS básico 
+- 📈 Banco de Dados: SQL Server básico
+- 📚 Microsoft Office: intermediário
+- ✏ Design: Photoshop básico 
+
+Estou aberto a propostas e novos desafios!
+
+  <a href="https://www.linkedin.com/in/iuricode" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anderson-ap-ribeiro/" /></a>
+
